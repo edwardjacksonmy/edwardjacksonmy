@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soh Joen Shiuan</h1>
-<h3 align="center">About Hi there. I'm Soh Joen Shiuan, a Data Science enthusiast at UTM</h3>
+<h3 align="center">I'm Soh Joen Shiuan, a Data Science enthusiast at UTM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardjacksonmy&label=Profile%20views&color=0e75b6&style=flat" alt="edwardjacksonmy" /> </p>
 
